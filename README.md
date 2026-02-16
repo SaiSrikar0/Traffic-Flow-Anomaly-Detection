@@ -6,6 +6,9 @@ Detect anomalies in network traffic using the Isolation Forest algorithm. The St
 
 https://traffic-flow-anomaly.streamlit.app/
 
+## Screenshot
+<img width="2877" height="1625" alt="image" src="https://github.com/user-attachments/assets/9ead81e2-0e89-4b0f-8190-26b8fc846e28" />
+
 ## Features
 
 - Upload a CSV file or use the sample dataset
